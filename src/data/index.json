@@ -1,23 +1,23 @@
 {
   "experience": [
     {
-      "company": "Karolinska Universitetssjukhuset, Rättskanslit",
+      "company": "Example Company Name 1, Department",
       "year": "2014 - Active"
     },
     {
-      "company": "Example Company Name Sweden AB, Department",
+      "company": "Example Company Name 2, Department",
       "year": "2015 - 2018"
     }
   ],
   "education": [
     {
-      "degree": "Samhällsvetenskap, Beteendeinriktning",
-      "school": "Klara Gymnasium",
+      "degree": "Degree",
+      "school": "School Name",
       "year": "2009 - 2012"
     },
     {
-      "degree": "Full Stack Developer .NET",
-      "school": "Chas Academy",
+      "degree": "Degree",
+      "school": "School Name",
       "year": "2023 - Active"
     }
   ]

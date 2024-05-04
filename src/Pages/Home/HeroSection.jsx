@@ -9,7 +9,7 @@ export default function HeroSection() {
               Developer
             </h1>
             <p className="hero--section-description">
-              Noa Denise Ishac
+              Name Name
             </p>
           </div>
         </div>
