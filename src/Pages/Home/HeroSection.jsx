@@ -1,3 +1,4 @@
+import background from '../../img/hero_img.png'
 export default function HeroSection() {
     return (
       <section id="heroSection" className="hero--section">
@@ -14,7 +15,7 @@ export default function HeroSection() {
           </div>
         </div>
         <div className="hero--section--img">
-          <img src="./img/hero_img.png" alt="Hero Section" />
+          <img src={background} alt="Hero Section" />
         </div>
       </section>
     );

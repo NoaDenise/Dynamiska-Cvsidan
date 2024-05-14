@@ -1,3 +1,4 @@
+import bg from '../../img/logo.svg'
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
 
@@ -35,7 +36,7 @@ function Navbar() {
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
-        <img src="./img/logo.svg" alt="Logoipsum" />
+        <img src= {bg} alt="Logoipsum" />
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
