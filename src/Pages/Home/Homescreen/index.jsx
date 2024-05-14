@@ -1,4 +1,4 @@
-import AboutMe from "../AboutMe";
+import AboutMe from "../AboutMe.jsx";
 import ContactMe from "../ContactMe";
 import Footer from "../Footer";
 import HeroSection from "../HeroSection";
